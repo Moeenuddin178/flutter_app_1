@@ -6,6 +6,7 @@ void main() {
   //material app is widget
   runApp(MaterialApp(
     //home and center are also widgets
+    //so in home we start rendring
     home: Center(
       child: Text('hi'),
     ),
